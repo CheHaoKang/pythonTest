@@ -1,0 +1,706 @@
+1515591630023	geckodriver	INFO	geckodriver 0.19.1
+1515591630028	geckodriver	INFO	Listening on 127.0.0.1:53395
+1515591633320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.Y26aH4d7iK6K"
+1515591708835	geckodriver	INFO	geckodriver 0.19.1
+1515591708841	geckodriver	INFO	Listening on 127.0.0.1:53705
+1515591711987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.EKwF6Psxe02H"
+1515591713322	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515591717018	Marionette	INFO	Listening on port 53719
+1515591717354	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515591717412	Marionette	DEBUG	Register listener.js for window 4294967297
+1515591717433	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515591717813	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515591717813	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515591719143	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591720035	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591720283	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591720502	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591720502	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591720691	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591720726	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515591720726	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515591720727	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515591720727	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1515591721125	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15401515591766987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.LqKK59ciNTPb"
+1515591768501	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515591773365	Marionette	INFO	Listening on port 53885
+1515591774305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515591774348	Marionette	DEBUG	Register listener.js for window 4294967297
+1515591774365	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515591774799	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515591774799	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515591775957	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591776703	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591776724	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591776979	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591776979	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591777115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591777119	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515591777119	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515591777120	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515591777120	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515591778745	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 169961515591894013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.wp5guBlAKhDJ"
+1515591894749	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515591898420	Marionette	INFO	Listening on port 54233
+1515591899232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515591899271	Marionette	DEBUG	Register listener.js for window 4294967297
+1515591899282	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515591899629	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515591899629	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515591900831	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591901618	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591901644	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591901899	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591901899	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591902152	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591902155	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515591902156	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515591902156	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515591902156	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515591904933	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591905155	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15611515591921303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.DOQnYONkj8vs"
+1515591921967	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515591925959	Marionette	INFO	Listening on port 54351
+1515591926516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515591926552	Marionette	DEBUG	Register listener.js for window 4294967297
+1515591926567	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515591926900	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515591926900	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515591928014	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591929368	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591929400	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591929641	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591929642	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591929813	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591929836	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515591929841	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515591929842	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515591929842	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515591930256	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591930475	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+1515591989482	geckodriver	INFO	geckodriver 0.19.1
+1515591989487	geckodriver	INFO	Listening on 127.0.0.1:54548
+1515591992556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.QZ6ftdE4NBtz"
+1515591993154	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515591996504	Marionette	INFO	Listening on port 54563
+1515591996724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515591996775	Marionette	DEBUG	Register listener.js for window 4294967297
+1515591996797	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515591997161	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515591997162	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://www.gatherproxy.com/content/js/jquery.marquee.zipped.js?v=1 line 1 > eval, line 1: ReferenceError: jQuery is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/scripts.js?v=16, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+JavaScript error: http://www.gatherproxy.com/content/js/gp.zipped.js?v=118 line 1 > eval, line 1: ReferenceError: $ is not defined
+1515591997738	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591998489	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591998511	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591998728	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591998729	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591999317	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591999359	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515591999359	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515591999360	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515591999360	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515591999670	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515591999889	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515592298293	geckodriver	INFO	geckodriver 0.19.1
+1515592298298	geckodriver	INFO	Listening on 127.0.0.1:55258
+1515592301357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.wDSAU1h6n7nx"
+1515592301972	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515592305645	Marionette	INFO	Listening on port 55272
+1515592306571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515592306611	Marionette	DEBUG	Register listener.js for window 4294967297
+1515592306621	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515592306979	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515592306979	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515592308051	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592309406	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592309431	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592309668	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592309669	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592309856	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592309872	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515592309873	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515592309873	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1515592309873	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515592311689	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592311908	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515592363624	geckodriver	INFO	geckodriver 0.19.1
+1515592363629	geckodriver	INFO	Listening on 127.0.0.1:55445
+1515592366688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.g3UGPFsglc5T"
+1515592367680	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515592370410	Marionette	INFO	Listening on port 55459
+1515592370799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515592370848	Marionette	DEBUG	Register listener.js for window 4294967297
+1515592370860	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515592371198	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515592371198	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515592372364	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592373010	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592373037	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592373264	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592373264	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592373454	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592373467	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515592373468	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515592373468	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515592373468	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515592373850	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515592405016	geckodriver	INFO	geckodriver 0.19.1
+1515592405021	geckodriver	INFO	Listening on 127.0.0.1:55580
+1515592408092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.k2KMoObFV8dY"
+1515592409414	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515592412848	Marionette	INFO	Listening on port 55595
+1515592413305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515592413354	Marionette	DEBUG	Register listener.js for window 4294967297
+1515592413375	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515592413762	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515592413763	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515592415005	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592416162	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592416188	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592416412	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592416412	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592416490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592416503	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515592416504	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515592416505	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515592416505	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515592418161	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 99521515592452738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.KZclLhZ92c8Q"
+1515592454435	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515592458770	Marionette	INFO	Listening on port 55738
+1515592458954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515592459001	Marionette	DEBUG	Register listener.js for window 4294967297
+1515592459013	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515592459378	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515592459378	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515592460555	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592461675	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592461696	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592461902	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592461903	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592462047	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592462051	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515592462051	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515592462051	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515592462052	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515592463699	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 165481515592478103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.Ayc9iJmCi08c"
+1515592478718	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515592481954	Marionette	INFO	Listening on port 55845
+1515592482233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515592482274	Marionette	DEBUG	Register listener.js for window 4294967297
+1515592482287	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515592482645	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515592482646	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515592483823	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592484562	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592484583	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592484912	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592484913	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592485056	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592485059	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515592485059	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515592485059	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515592485060	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515592487893	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592487917	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592487921	Marionette	DEBUG	Received DOM event "popstate" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite#2"
+[Parent 8904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515592663160	geckodriver	INFO	geckodriver 0.19.1
+1515592663164	geckodriver	INFO	Listening on 127.0.0.1:56320
+1515592666241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.Euh546G1734O"
+1515592666782	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515592671119	Marionette	INFO	Listening on port 56334
+1515592671456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515592671498	Marionette	DEBUG	Register listener.js for window 4294967297
+1515592671509	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515592671887	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515592671887	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515592673512	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592674358	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592674382	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592674576	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592674577	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592674833	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592674882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515592674882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515592674883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1515592674883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515592676510	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592676750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15796, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15796, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515592730397	geckodriver	INFO	geckodriver 0.19.1
+1515592730402	geckodriver	INFO	Listening on 127.0.0.1:56526
+1515592733461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.Mwei5tZclirj"
+1515592735088	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515592740726	Marionette	INFO	Listening on port 56540
+1515592741276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515592741328	Marionette	DEBUG	Register listener.js for window 4294967297
+1515592741369	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515592741704	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515592741704	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515592742823	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592744057	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592744077	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592744287	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592744288	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592744457	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592744461	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515592744461	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515592744461	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515592744461	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515592744890	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592745119	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515592908435	geckodriver	INFO	geckodriver 0.19.1
+1515592908440	geckodriver	INFO	Listening on 127.0.0.1:56968
+1515592911508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.c5HCsHFV9u2Q"
+1515592912480	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515592915670	Marionette	INFO	Listening on port 56982
+1515592916721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515592916760	Marionette	DEBUG	Register listener.js for window 4294967297
+1515592916776	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515592917097	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515592917097	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515592918204	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592918992	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592919010	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592919320	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592919320	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592919469	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592919485	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515592919486	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515592919486	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1515592919487	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515592919959	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592920177	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515592933807	geckodriver	INFO	geckodriver 0.19.1
+1515592933811	geckodriver	INFO	Listening on 127.0.0.1:57076
+1515592936935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.5RBLcOi4KyQG"
+1515592938184	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515592941048	Marionette	INFO	Listening on port 57090
+1515592942150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515592942191	Marionette	DEBUG	Register listener.js for window 4294967297
+1515592942209	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515592942591	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515592942591	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515592944039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592944911	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592944940	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592945150	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592945151	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592945282	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592945298	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515592945299	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515592945299	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515592945299	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515592947138	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515592947366	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+1515593087502	geckodriver	INFO	geckodriver 0.19.1
+1515593087509	geckodriver	INFO	Listening on 127.0.0.1:57449
+1515593090568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.bEyMdkQXUljA"
+1515593091860	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515593095723	Marionette	INFO	Listening on port 57463
+1515593095863	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515593095917	Marionette	DEBUG	Register listener.js for window 4294967297
+1515593095934	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515593096325	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515593096325	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515593097465	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515593098805	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515593098825	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515593099188	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515593099189	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515593099350	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515593099363	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515593099363	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515593099364	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515593099364	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515593101010	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515593101247	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515593720582	geckodriver	INFO	geckodriver 0.19.1
+1515593720587	geckodriver	INFO	Listening on 127.0.0.1:58833
+1515593723651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.oFrRVunoQYL5"
+1515593725113	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515593728682	Marionette	INFO	Listening on port 58847
+1515593729022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515593729075	Marionette	DEBUG	Register listener.js for window 4294967297
+1515593729109	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515593729512	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515593729512	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515593730637	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515593731435	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515593731452	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515593731656	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515593731656	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515593731785	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515593731788	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515593731789	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515593731789	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515593731789	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515593734570	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+1515632828932	geckodriver	INFO	geckodriver 0.19.1
+1515632828937	geckodriver	INFO	Listening on 127.0.0.1:60707
+1515632842355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.NhgjNHZxyQf5"
+1515632917547	geckodriver	INFO	geckodriver 0.19.1
+1515632917827	geckodriver	INFO	Listening on 127.0.0.1:60882
+1515632922098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.2za5UwfJVvQS"
+1515632929012	Marionette	INFO	Enabled via --marionette
+1515632942519	Marionette	INFO	Listening on port 60894
+1515632942774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515632946213	Marionette	DEBUG	Register listener.js for window 4294967297
+1515632946609	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515632947112	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515632947113	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515632948936	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515632950760	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515632950834	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515632951040	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515632951040	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515632951355	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515632951369	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515632951370	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515632951370	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515632951370	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1515632952862	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515633043888	geckodriver	INFO	geckodriver 0.19.1
+1515633043894	geckodriver	INFO	Listening on 127.0.0.1:61119
+1515633047392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.H1PZULjBXcVo"
+1515633050488	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515633053788	Marionette	INFO	Listening on port 61131
+1515633054708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515633054745	Marionette	DEBUG	Register listener.js for window 4294967297
+1515633054788	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515633055192	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515633055193	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515633056473	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515633057623	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515633057644	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515633057878	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515633057879	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515633057958	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515633057971	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515633057972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515633057972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515633057972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515633059634	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515633059866	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515634004612	geckodriver	INFO	geckodriver 0.19.1
+1515634004617	geckodriver	INFO	Listening on 127.0.0.1:62974
+1515634007734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.rcX7ofGexvRt"
+1515634009777	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515634025179	Marionette	INFO	Listening on port 62986
+1515634026279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515634026515	Marionette	DEBUG	Register listener.js for window 4294967297
+1515634027753	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515634028472	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515634028472	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515634034147	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634036849	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634037355	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634037638	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634037638	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634037889	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634037904	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515634037904	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515634037904	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515634037904	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1515634039107	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634039703	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 2496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 1124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515634678563	geckodriver	INFO	geckodriver 0.19.1
+1515634678568	geckodriver	INFO	Listening on 127.0.0.1:63677
+1515634681627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.6RMl9OCKRPt6"
+1515634682946	Marionette	INFO	Enabled via --marionette
+1515634685566	Marionette	INFO	Listening on port 63685
+1515634685789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515634685846	Marionette	DEBUG	Register listener.js for window 4294967297
+1515634685868	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515634686293	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515634686293	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515634687348	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634688104	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634688127	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634688355	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634688355	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634688484	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634688488	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515634688488	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515634688489	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1515634688490	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515634689999	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634690018	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634690021	Marionette	DEBUG	Received DOM event "popstate" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite#3"
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515634706077	geckodriver	INFO	geckodriver 0.19.1
+1515634706081	geckodriver	INFO	Listening on 127.0.0.1:63744
+1515634709145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.RgAZsVbOlGHZ"
+1515634709695	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515634712374	Marionette	INFO	Listening on port 63752
+1515634712754	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515634712799	Marionette	DEBUG	Register listener.js for window 4294967297
+1515634712821	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515634713161	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515634713161	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515634714334	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634715462	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634715482	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634715729	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634715730	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634715882	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634715885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515634715885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515634715885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515634715885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515634717553	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634717769	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515634766980	geckodriver	INFO	geckodriver 0.19.1
+1515634766985	geckodriver	INFO	Listening on 127.0.0.1:63837
+1515634770046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.A3EQOA61T9gq"
+1515634770640	Marionette	INFO	Enabled via --marionette
+1515634773074	Marionette	INFO	Listening on port 63845
+1515634773374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515634773427	Marionette	DEBUG	Register listener.js for window 4294967297
+1515634773448	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515634773811	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515634773811	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515634774968	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634777251	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634777276	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634777494	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634777494	Marionette	DEBUG	Received DOM event "unload" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634777646	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634777649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515634777649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515634777649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1515634777650	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515634778084	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.gatherproxy.com/proxylist/anonymity/?t=Elite"
+1515634778302	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
