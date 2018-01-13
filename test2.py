@@ -52,4 +52,4 @@ def importProxies(fileName):
 	conn.close()
 
 if __name__ == "__main__":
-	importProxies('[gatherproxy.com]proxies_2018_01_10.txt')
+	print('')

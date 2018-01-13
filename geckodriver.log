@@ -704,3 +704,31 @@ Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\op
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1515684379324	geckodriver	INFO	geckodriver 0.19.1
+1515684379328	geckodriver	INFO	Listening on 127.0.0.1:61569
+1515684382673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUEPL~1\\AppData\\Local\\Temp\\rust_mozprofile.Sfkei0JzZmc9"
+1515684386516	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515684391744	Marionette	INFO	Listening on port 61582
+1515684392196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515684392255	Marionette	DEBUG	Register listener.js for window 4294967297
+1515684392398	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515684392726	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515684392726	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515684394095	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.baidu.com/"
+1515684394552	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.baidu.com/"
+JavaScript error: http://suggestion.baidu.com/su?wd=se&json=1&p=3&sid=1461_21124_17001_22158&req=2&csor=2&pwd=s&cb=jQuery110206445478041894784_1515684393501&_=1515684393503, line 1: TypeError: jQuery110206445478041894784_1515684393501 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=s&json=1&p=3&sid=1461_21124_17001_22158&req=2&csor=1&cb=jQuery110206445478041894784_1515684393501&_=1515684393502, line 1: TypeError: jQuery110206445478041894784_1515684393501 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=sel&json=1&p=3&sid=1461_21124_17001_22158&req=2&csor=3&pwd=se&cb=jQuery110206445478041894784_1515684393501&_=1515684393504, line 1: TypeError: jQuery110206445478041894784_1515684393501 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=sele&json=1&p=3&sid=1461_21124_17001_22158&req=2&csor=4&pwd=sel&cb=jQuery110206445478041894784_1515684393501&_=1515684393505, line 1: TypeError: jQuery110206445478041894784_1515684393501 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=selen&json=1&p=3&sid=1461_21124_17001_22158&req=2&csor=5&pwd=sele&cb=jQuery110206445478041894784_1515684393501&_=1515684393506, line 1: TypeError: jQuery110206445478041894784_1515684393501 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=seleni&json=1&p=3&sid=1461_21124_17001_22158&req=2&csor=6&pwd=selen&cb=jQuery110206445478041894784_1515684393501&_=1515684393507, line 1: TypeError: jQuery110206445478041894784_1515684393501 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=seleniu&json=1&p=3&sid=1461_21124_17001_22158&req=2&csor=7&pwd=seleni&cb=jQuery110206445478041894784_1515684393501&_=1515684393508, line 1: TypeError: jQuery110206445478041894784_1515684393501 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=selenium&json=1&p=3&sid=1461_21124_17001_22158&req=2&csor=8&pwd=seleniu&cb=jQuery110206445478041894784_1515684393501&_=1515684393509, line 1: TypeError: jQuery110206445478041894784_1515684393501 is not a function
+1515684395200	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\blueplanet\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
