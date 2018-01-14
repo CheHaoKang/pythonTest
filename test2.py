@@ -2,6 +2,7 @@ import re,requests,random
 from twstock import Stock
 import pymysql.cursors
 import sys
+import datetime
 
 header={'headers':'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
 
@@ -52,4 +53,17 @@ def importProxies(fileName):
 	conn.close()
 
 if __name__ == "__main__":
-	print('')
+    proxyIPList = ['121.232.199.131:9000','121.232.199.131:9001','121.232.199.131:9000','121.232.199.131:9002']
+    try:
+        conn = pymysql.connect(host='localhost', port=3306, user='root', passwd='89787198',
+                               db='stockevaluation', charset="utf8")
+        cur = conn.cursor()
+        insert = "INSERT IGNORE INTO stockproxies (proxyIPPort) VALUES (%s)"
+        cur.executemany(insert, proxyIPList)
+        cur.close()
+        conn.commit()
+        conn.close()
+    except:
+        print("Unexpected error:", sys.exc_info())
+        cur.close()
+        conn.close()

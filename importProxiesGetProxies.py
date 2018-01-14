@@ -51,7 +51,7 @@ def getProxy(html):
         conn = pymysql.connect(host='localhost', port=3306, user='root', passwd='89787198',
                                db='stockevaluation', charset="utf8")
         cur = conn.cursor()
-        insert = "INSERT INTO stockproxies (proxyIPPort) VALUES (%s)"
+        insert = "INSERT IGNORE INTO stockproxies (proxyIPPort) VALUES (%s)" # IGNORE - ignore duplicates
         cur.executemany(insert, proxyIPList)
         cur.close()
         conn.commit()
