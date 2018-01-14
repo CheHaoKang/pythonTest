@@ -67,8 +67,7 @@ def getInstitutionalInvestors(date):
 
 	# 自營商買賣超彙總表
 	succeed = False
-	failCounter = 0
-	while not succeed and failCounter<20:
+	while not succeed:
 		header = {'User-Agent': str(ua.random)}
 		res = requests.get("http://www.twse.com.tw/fund/TWT43U?response=json&date=" + str(date), headers=header)
 
@@ -83,16 +82,14 @@ def getInstitutionalInvestors(date):
 					insInvestArray.append((date, data[0].strip(), 'dealer', 'dealer', data[8].strip().replace(",", "")))
 					insInvestArray.append((date, data[0].strip(), 'dealer', 'dealer', ('' if data[9].strip().replace(",", "")=='0' else '-') + data[9].strip().replace(",", "")))
 				succeed = True
-			else:
-				failCounter += 1
+			elif '很抱歉' in s['stat']:
+				succeed = True
 		except:
 			print("Unexpected error:", sys.exc_info())
-			failCounter += 1
 
 	# 投信買賣超彙總表
 	succeed = False
-	failCounter = 0
-	while not succeed and failCounter<20:
+	while not succeed:
 		header = {'User-Agent': str(ua.random)}
 		res = requests.get("http://www.twse.com.tw/fund/TWT44U?response=json&date=" + str(date), headers=header)
 
@@ -103,16 +100,14 @@ def getInstitutionalInvestors(date):
 					insInvestArray.append((date,data[1].strip(),' investmentTrust',' investmentTrust',data[3].strip().replace(",", "")))
 					insInvestArray.append((date, data[1].strip(), ' investmentTrust', ' investmentTrust', ('' if data[4].strip().replace(",", "")=='0' else '-') + data[4].strip().replace(",", "")))
 				succeed = True
-			else:
-				failCounter += 1
+			elif '很抱歉' in s['stat']:
+				succeed = True
 		except:
 			print("Unexpected error:", sys.exc_info())
-			failCounter += 1
 
 	# 外資及陸資買賣超彙總表
 	succeed = False
-	failCounter = 0
-	while not succeed and failCounter < 20:
+	while not succeed:
 		header = {'User-Agent': str(ua.random)}
 		res = requests.get("http://www.twse.com.tw/fund/TWT38U?response=json&date=" + str(date), headers=header)
 
@@ -123,13 +118,10 @@ def getInstitutionalInvestors(date):
 					insInvestArray.append((date, data[1].strip(),'foreignInvestor','foreignInvestor',data[3].strip().replace(",", "")))
 					insInvestArray.append((date, data[1].strip(),'foreignInvestor','foreignInvestor',('' if data[4].strip().replace(",", "") == '0' else '-') + data[4].strip().replace(",", "")))
 				succeed = True
-			else:
-				failCounter += 1
+			elif '很抱歉' in s['stat']:
+				succeed = True
 		except:
 			print("Unexpected error:", sys.exc_info())
-			failCounter += 1
-
-	# print(insInvestArray)
 
 	try:
 		conn = pymysql.connect(host='localhost', port=3306, user='root', passwd='89787198',
@@ -146,4 +138,5 @@ def getInstitutionalInvestors(date):
 		conn.close()
 
 if __name__ == "__main__":
-	getInstitutionalInvestors('20180112')
+    # print(str(sys.argv[1]))
+    getInstitutionalInvestors(str(sys.argv[1]))
