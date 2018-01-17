@@ -3,6 +3,9 @@ import pymysql
 import pymysql.cursors
 
 if __name__ == "__main__":
+
+    exit(1)
+
     #wb = load_workbook('C:/Users/blueplanet/Desktop/MovieCenter/excel範本/膠片Excel.xlsx')
     wb = open_workbook('C:/Users/blueplanet/Desktop/MovieCenter/excel範本/膠片Excel.xlsx')
     values = []

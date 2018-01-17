@@ -138,5 +138,5 @@ def getInstitutionalInvestors(date):
 		conn.close()
 
 if __name__ == "__main__":
-    # print(str(sys.argv[1]))
-    getInstitutionalInvestors(str(sys.argv[1]))
+	getInstitutionalInvestors(str(sys.argv[1]))
+
