@@ -1,9 +1,11 @@
 from xlrd import open_workbook
 import pymysql
 import pymysql.cursors
+import datetime
 
 if __name__ == "__main__":
-
+    dt = datetime.datetime.strptime("20130125", '%Y%m%d').strftime('%Y-%m-%d')
+    print(dt)
     exit(1)
 
     #wb = load_workbook('C:/Users/blueplanet/Desktop/MovieCenter/excel範本/膠片Excel.xlsx')

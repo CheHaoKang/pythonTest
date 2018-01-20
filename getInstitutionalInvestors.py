@@ -65,6 +65,8 @@ def getInstitutionalInvestors(date):
 	ua = UserAgent()
 	insInvestArray = []
 
+	hyphenDate = datetime.datetime.strptime(date, '%Y%m%d').strftime('%Y-%m-%d')
+
 	# 自營商買賣超彙總表
 	succeed = False
 	while not succeed:
@@ -75,12 +77,12 @@ def getInstitutionalInvestors(date):
 			s = json.loads(res.text)
 			if 'data' in s:
 				for data in s['data']:
-					insInvestArray.append((date,data[0].strip(),'dealer','dealerSelf',data[2].strip().replace(",", "")))
-					insInvestArray.append((date, data[0].strip(), 'dealer', 'dealerSelf', ('' if data[3].strip().replace(",", "")=='0' else '-') + data[3].strip().replace(",", "")))
-					insInvestArray.append((date, data[0].strip(), 'dealer', 'dealerHedging', data[5].strip().replace(",", "")))
-					insInvestArray.append((date, data[0].strip(), 'dealer', 'dealerHedging', ('' if data[6].strip().replace(",", "")=='0' else '-') + data[6].strip().replace(",", "")))
-					insInvestArray.append((date, data[0].strip(), 'dealer', 'dealer', data[8].strip().replace(",", "")))
-					insInvestArray.append((date, data[0].strip(), 'dealer', 'dealer', ('' if data[9].strip().replace(",", "")=='0' else '-') + data[9].strip().replace(",", "")))
+					insInvestArray.append((hyphenDate,data[0].strip(),'dealer','dealerSelf',data[2].strip().replace(",", "")))
+					insInvestArray.append((hyphenDate, data[0].strip(), 'dealer', 'dealerSelf', ('' if data[3].strip().replace(",", "")=='0' else '-') + data[3].strip().replace(",", "")))
+					insInvestArray.append((hyphenDate, data[0].strip(), 'dealer', 'dealerHedging', data[5].strip().replace(",", "")))
+					insInvestArray.append((hyphenDate, data[0].strip(), 'dealer', 'dealerHedging', ('' if data[6].strip().replace(",", "")=='0' else '-') + data[6].strip().replace(",", "")))
+					insInvestArray.append((hyphenDate, data[0].strip(), 'dealer', 'dealer', data[8].strip().replace(",", "")))
+					insInvestArray.append((hyphenDate, data[0].strip(), 'dealer', 'dealer', ('' if data[9].strip().replace(",", "")=='0' else '-') + data[9].strip().replace(",", "")))
 				succeed = True
 			elif '很抱歉' in s['stat']:
 				succeed = True
@@ -97,8 +99,8 @@ def getInstitutionalInvestors(date):
 			s = json.loads(res.text)
 			if 'data' in s:
 				for data in s['data']:
-					insInvestArray.append((date,data[1].strip(),' investmentTrust',' investmentTrust',data[3].strip().replace(",", "")))
-					insInvestArray.append((date, data[1].strip(), ' investmentTrust', ' investmentTrust', ('' if data[4].strip().replace(",", "")=='0' else '-') + data[4].strip().replace(",", "")))
+					insInvestArray.append((hyphenDate,data[1].strip(),' investmentTrust',' investmentTrust',data[3].strip().replace(",", "")))
+					insInvestArray.append((hyphenDate, data[1].strip(), ' investmentTrust', ' investmentTrust', ('' if data[4].strip().replace(",", "")=='0' else '-') + data[4].strip().replace(",", "")))
 				succeed = True
 			elif '很抱歉' in s['stat']:
 				succeed = True
@@ -115,8 +117,8 @@ def getInstitutionalInvestors(date):
 			s = json.loads(res.text)
 			if 'data' in s:
 				for data in s['data']:
-					insInvestArray.append((date, data[1].strip(),'foreignInvestor','foreignInvestor',data[3].strip().replace(",", "")))
-					insInvestArray.append((date, data[1].strip(),'foreignInvestor','foreignInvestor',('' if data[4].strip().replace(",", "") == '0' else '-') + data[4].strip().replace(",", "")))
+					insInvestArray.append((hyphenDate, data[1].strip(),'foreignInvestor','foreignInvestor',data[3].strip().replace(",", "")))
+					insInvestArray.append((hyphenDate, data[1].strip(),'foreignInvestor','foreignInvestor',('' if data[4].strip().replace(",", "") == '0' else '-') + data[4].strip().replace(",", "")))
 				succeed = True
 			elif '很抱歉' in s['stat']:
 				succeed = True
