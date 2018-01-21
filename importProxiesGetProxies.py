@@ -13,7 +13,7 @@ def importProxies(fileName):
 	with open(fileName, 'r', encoding='UTF-8') as file:
 		for line in file:
 			try:
-				insert = "INSERT INTO stockproxies (proxyIPPort, proxyFailtimes, proxyReponseperiod) VALUES (%s, 0, '0')"
+				insert = "INSERT IGNORE INTO stockproxies (proxyIPPort, proxyFailtimes, proxyReponseperiod) VALUES (%s, 0, '0')"
 				cur.execute(insert, line.strip())
 			except:
 				print("Unexpected error:", sys.exc_info()[0])
