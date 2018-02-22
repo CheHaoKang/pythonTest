@@ -2,10 +2,32 @@ from xlrd import open_workbook
 import pymysql
 import pymysql.cursors
 import datetime
+import requests
+from fake_useragent import UserAgent
+from lxml import etree
+import collections
+import re
 
 if __name__ == "__main__":
-    dt = datetime.datetime.strptime("20130125", '%Y%m%d').strftime('%Y-%m-%d')
-    print(dt)
+    ua = UserAgent()
+    header = {'User-Agent': str(ua.random)}
+    urlPttStock = 'https://www.ptt.cc/bbs/Stock/index.html'
+    res = requests.get(urlPttStock, headers=header, timeout=10)#, proxies=proxies, timeout=self.timeout)
+
+    html = etree.HTML(res.text)
+    result = html.xpath('//a/@href')
+    previousPageUrl = ''
+    urlArray = []
+    for oneUrl in result:
+        splitUrl = oneUrl.split('/')
+        letters = collections.Counter(splitUrl[-1])
+        if letters['.']>=3: # filter out urls with less than three dots
+            urlArray.append(oneUrl)
+        elif re.search('index[0-9]+', splitUrl[-1]):
+            previousPageUrl = oneUrl
+
+    print(urlArray)
+    print(previousPageUrl)
     exit(1)
 
     #wb = load_workbook('C:/Users/blueplanet/Desktop/MovieCenter/excel範本/膠片Excel.xlsx')
